@@ -1,0 +1,33 @@
+/* src/Resume.css */
+.resume {
+    margin: 2rem 0;
+    padding: 1rem;
+  }
+  
+  .resume h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .resume__item {
+    margin-bottom: 1.2rem;
+  }
+  
+  .resume__item h3 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .resume__item p {
+    font-size: 1.1rem;
+    color: #666;
+  }
+
+  .company-logo {
+    width: clamp(180px, 5%, 100px); /* Mínimo 40px, ajusta al 5% del contenedor, máximo 100px */
+    height: auto;
+  }
+  
+  
+  
+  
