@@ -1,5 +1,5 @@
 ## Personal Website
-Welcome to my [personal website](https://arelisps.com) where you can find my cv, about me and some projects I have done!!!!
+Welcome to my [personal website](https://arelisps.github.io/cv) where you can find my cv, about me and some projects I have done!!!!
 
 
 ## 🙌 Acknowledgements
