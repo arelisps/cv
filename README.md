@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Personal Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal website! It offers a simple interface, easy modifications, static export capabilities, and free automatic deployments via GitHub Pages.
 
 ## Available Scripts
 
