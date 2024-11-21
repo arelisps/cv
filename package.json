@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://ps-arelis.com/",
+  "homepage": "https://arelisps.com/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ps-arelis/personal-site.git"
+    "url": "https://github.com/arelisps/cv.git"
   },
   "engines": {
     "node": ">=16.x"

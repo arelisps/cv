@@ -44,7 +44,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Arelis Picado Solano <Link to="/">ps-arelis.com</Link>.
+        &copy; Arelis Picado Solano <Link to="/">arelisps.com</Link>.
       </p>
     </section>
   </section>
