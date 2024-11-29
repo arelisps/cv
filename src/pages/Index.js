@@ -17,7 +17,7 @@ const Index = () => (
             <Link to="/">About this site</Link>
           </h2>
           <p>
-            This site showcases my academic information, projects, and work experience
+            This site showcases my academic information and work experience
           </p>
         </div>
       </header>
